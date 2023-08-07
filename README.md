@@ -4,7 +4,7 @@ The aim of the course project was to create a phonebook manager by defining a ph
 Furthermore, the aim of the project was to manage concurrency between methods via locks (concurrent/parallel programming).  
 The project was divided into two different parts, where:
 - the first envisaged the definition of the object and the main methods
-- the second also includes the definition of other methods and the introduction of concurrent management.
+- the second also includes the definition of other methods and the introduction of concurrent management.  
 Both folders contain the project specification documents (pdf files) and the files that satisfy the requests.
 
 ################################################################################################
