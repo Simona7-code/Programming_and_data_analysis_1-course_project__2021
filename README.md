@@ -7,7 +7,7 @@ The project was divided into two different parts, where:
 - the second also includes the definition of other methods and the introduction of concurrent management.
 Both folders contain the project specification documents (pdf files) and the files that satisfy the requests.
 
-########################################################################################################################
+################################################################################################
 
 Lo scopo del progetto del corso era creare un gestore di rubrica telefonica definendo un oggetto rubrica e definendo svariati metodi per questo oggetto (come inserimento, cancellazione, modifiche, etc..).   
 Inoltre scopo del progetto era gestire la concorrenza tra i metodi tramite locks (programmazione conccorrente/parallela).  
